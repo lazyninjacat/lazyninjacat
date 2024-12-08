@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile. Not a whole lot to look at but some super old game jam game repos. Maybe one day I'll jazz this page up... but not today 😄
+
 <!--
 **lazyninjacat/lazyninjacat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
